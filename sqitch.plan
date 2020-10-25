@@ -3,3 +3,4 @@
 %uri=https://github.com/dragonwright/database-registration-service
 
 roles/player_email_address_component 2020-10-25T09:28:37Z Joseph Choe <joseph@josephchoe.com> # Role for player email address component
+roles/registration_component 2020-10-25T09:31:09Z Joseph Choe <joseph@josephchoe.com> # Role for registration component
